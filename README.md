@@ -10,7 +10,7 @@
 </br>
 
 <p align="">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=Building+cool+stuff+%7C+AI+%7C+Web+%7C+Automation" alt="Typing SVG" />
+  <img width="700" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=Building+cool+stuff+%7C+AI+%7C+Web+%7C+Automation" alt="Typing SVG" />
 </p>
 
 ##    **<img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>** 🚀 About Me    
