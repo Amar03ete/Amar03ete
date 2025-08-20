@@ -1,66 +1,118 @@
-# 👋 Hey, I'm Amar (Amar03ete)
+[![MasterHead](https://user-images.githubusercontent.com/97012708/233769558-710dd1c2-75c1-4e35-bf96-7d125a4c25b2.gif)](https://github.com/MateiMartin)
+<!---[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/zainwen9)--->
 
-<p align="center">
+
+#  Hey There👋 What's up?
+
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+</br>
+</br>
+
+<p align="">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=Building+cool+stuff+%7C+AI+%7C+Web+%7C+Automation" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Exploring%20the%20Next%20Stack-0cf" alt="status" />
-  <img src="https://img.shields.io/badge/Tooling-Git%20%7C%20Docker%20%7C%20CI-CD-333" alt="tooling" />
-  <img src="https://img.shields.io/badge/OS-Linux%20%7C%20WSL-2b2b2b" alt="os" />
-</div>
+##    **<img src="https://user-images.githubusercontent.com/108933534/210176487-bb71ad61-85d6-4027-a637-5384e9a95733.gif" width="50" height="50"/>** 🚀 About Me    
+<h3 align="center" >
+Data Science || Computer Science and Engineering || Python || Business Analytics || Development
+</h3>
 
----
+</br>I build practical, automated solutions — web apps, tiny ML experiments, and developer tools. 
+I like clean code, good docs, and automations that save time.
+<img align="right" alt="Coding" height="250" width="300"
+ src="https://images.steamusercontent.com/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
-## About Me
-I build practical, automated solutions — web apps, tiny ML experiments, and developer tools. I like clean code, good docs, and automations that save time.
+- 🔭 I’m currently building: performant web apps + automation pipelines ,xyzz..
+- 💡 **Tech Explorer:** Passionate about software development, AI, and open-source.
+- 🛠️ **Languages & Tools:** Python, JavaScript, TypeScript, React, Node.js, Docker, Git, and more.
+- 🌱 **Currently Learning:** Machine learning, cloud computing, and DevOps.
+- 🤝 **Collaborating On:** Cool projects and hackathons!
+- ⚡ **Fun Fact:** I love automating things and making life easier with code.
 
-- 🔭 I’m currently building: performant web apps + automation pipelines  
-- 🌱 Learning: SRE patterns, advanced ML, and infra as code  
-- 🧩 Interests: Open-source, developer experience, embedded systems
 
 ## Quick peek
 ```bash
 # whoami
 echo "Amar — coder, tinkerer, lifelong-learner"
 # top skills
-ls -la ~/skills | grep -E "python|js|react|docker"
+ls -la ~/skills | grep -E "python|data science|AIML|docker"
 ```
 
-## Tech Stack & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions)
+---
 
-## Highlights
-- ⚡ I automate repetitive developer tasks (CI, releases, infra provisioning)
-- 🌐 I build responsive, accessible frontends and reliable backends
-- 🛠️ I dockerize apps and deploy them to cloud CI/CD pipelines
+### 🛠️ Skills & Technologies
 
-## Projects to check
-- [Project-A](https://github.com/Amar03ete/project-a) — brief one-line description of what it does  
-- [Project-B](https://github.com/Amar03ete/project-b) — brief one-line description
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/notion/000000" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
 
-## GitHub Stats
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amar03ete&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar03ete&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Code.+Create.+Innovate.;Tech+Enthusiast+%F0%9F%94%A5;Always+Learning+Something+New!" alt="Typing SVG" />
+</p>
+
+
+
+## Projects that are npt avilable for now :
+- [Smart HVAC Model] — Had to private the Repository because of some stuff  
+- [Smart Motion Detection Security Cam] — Welllll 🙃
+
+---
+
+
+> "Ship small, learn fast, iterate." 🚀
+
+
+### 📈 GitHub Stats
+
+<p align="">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amar03ete&show_icons=true&theme=radical" alt="Amar03ete's GitHub stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar03ete&theme=radical" alt="GitHub Streak" alt="Right Aligned" align="right">
+ 
 </p>
 
 ---
 
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff6b6b?style=flat&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarpandey01/)
+[![Github](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://github.com/Amar03ete)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-ff5722?style=flat&logo=Firefox&logoColor=white)](https://amar03.vercel.app/)
 
 ---
 
-> "Ship small, learn fast, iterate." 🚀
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-<!-- Tip: Replace the placeholder links with your actual project and social URLs. -->
+
+![MasterHead ](https://raw.githubusercontent.com/robiot/robiot/main/jump.gif )
