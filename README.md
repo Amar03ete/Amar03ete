@@ -97,7 +97,7 @@ ls -la ~/skills | grep -E "python|data science|AIML|docker"
 
 <p align="">
   <img src="https://github-readme-stats.vercel.app/api?username=Amar03ete&show_icons=true&theme=radical" alt="Amar03ete's GitHub stats" /> 
-<img align="right" height="190" width="220"src="https://media.tenor.com/0hFPh2AGi_wAAAAM/cat-computer.gif"  />
+<img align="right" height="190" width="220" margin left="20"src="https://media.tenor.com/0hFPh2AGi_wAAAAM/cat-computer.gif"  />
 </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar03ete&show_icons=true&theme=radical" alt="GitHub Streak" alt="Amar03ete's GitHub stats" align="right" />
  
